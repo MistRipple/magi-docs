@@ -164,14 +164,14 @@ Magi 的诞生离不开开源社区和早期支持者的帮助。
     <img src="https://github.com/andyhome163.png" width="80" height="80" alt="andyhome163" style="border-radius: 50%">
   </a>
   <br/>
-  <b>核心开发者: andyhome163</b>
+  <b>赞助者: andyhome163</b>
   <br/>
   (Augment 悟空版作者)
 </div>
 
 <br/>
 
-*   **API 支持**: [BinCode 中转站](https://newapi.stonefancyx.com/)
+*   **token 赞助支持**: [BinCode 中转站](https://newapi.stonefancyx.com/)
 
 ---
 
